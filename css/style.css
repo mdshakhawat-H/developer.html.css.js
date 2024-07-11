@@ -16,10 +16,6 @@ a{
 li{
     list-style: none;
 }
-.container{
-    width: 1140px;
-    margin: 0 auto;
-}
 .comn-heading{
     font-weight: 800;
     font-size: 32px;
@@ -94,7 +90,7 @@ header .header-wraper .resume:hover::after{
 /* ========== header end ========== */
 /* ========== banner start ========== */
 #banner{
-    background: url("/images/bannerbg.png");
+    background: url("../images/bannerbg.png");
     padding: 26px 0 45px;
 }
 #banner .banner-main{
@@ -307,9 +303,6 @@ header .header-wraper .resume:hover::after{
 }
 /* ========== target end ========== */
 /* ========== next-target start ========== */
-#next-target{
-    
-}
 #next-target .nxttrgt-descript{
     margin: 24px auto 0;
     width: 850px;
@@ -358,7 +351,7 @@ header .header-wraper .resume:hover::after{
     padding: 49px 0 80px;
 }
 #support .support-box{
-    background: url("/images/handshake.jpg");
+    background: url("../images/handshake.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

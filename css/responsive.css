@@ -1,0 +1,255 @@
+/* =================== extra small device start ==================== */
+@media (max-width: 575.98px) { 
+.cmn-head-descript {
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 13px;
+	color: #0D1321;
+}
+/* ========== header start ========== */
+header {
+	padding: 19px 0px 17px;
+}
+    header .header-wraper .logo {
+        font-weight: 500;
+        font-size: 14px;
+    }
+    header .header-wraper .resume {
+        font-weight: 300;
+        font-size: 10px;
+        padding: 8px 12px;
+    }
+    header .header-wraper {
+        align-items: center;
+    }
+/* ========== header end ========== */
+/* ========== banner start ========== */
+#banner {
+    background: url("../images/bannerbg.png");
+    padding: 13px 0 22px;
+}
+#banner .banner-main img{
+    width: 35%;
+}
+#banner .banner-main h1 {
+	font-weight: 500;
+	font-size: 20px;
+	color: #0D1321;
+	margin: 16px auto 0;
+	line-height: 25px;
+	width: 85%;
+}
+#banner .banner-main p {
+	font-weight: 300;
+	font-size: 10px;
+	line-height: 13px;
+	color: #0D1321;
+	width: 80%;
+	margin: 12px auto 0;
+}
+#banner .banner-main a {
+	font-weight: 300;
+	font-size: 10px;
+	color: #0D1321;
+	padding: 10px 12px;
+	border-radius: 4px;
+	margin-top: 16px;
+}
+/* ========== banner end ========== */
+/* ========== development start ========== */
+#development .develop-main {
+	padding: 20px 24px;
+}
+
+#development .develop-main {
+	padding: 20px 24px;
+}
+.comn-heading {
+	font-weight: 500;
+	font-size: 16px;
+}
+#development .develop-main .dev-head-descript {
+	margin: 12px auto 0;
+	width: 90%;
+	text-align: center;
+}
+#development .develop-main .develop-box {
+	margin-top: 24px;
+	width: 100%;
+	row-gap: 16px;
+}
+#development .develop-main .develop-box .develop-item {
+	padding: 24px;
+	width: 100%;
+}
+#development .develop-main .develop-box .develop-item h3 {
+	font-weight: 400;
+	font-size: 9px;
+	line-height: 18px;
+	width: 90%;
+}
+#development .develop-main .develop-box .develop-item p {
+	font-weight: 300;
+	font-size: 10px;
+	line-height: 13px;
+	margin-top: 10px;
+	width: 90%;
+}
+#development .develop-main .develop-box .develop-item a {
+	font-weight: 400;
+	font-size: 10px;
+	padding: 6px 10px;
+	margin-top: 0px;
+}
+#development .develop-main .develop-box .develop-item .dev-item-txt{
+    width: 65%;
+}
+#development .develop-main .develop-box .develop-item  .develop-img{
+    width: 35%;
+}
+#development .develop-main .develop-box .develop-item  .develop-img img{
+    width: 100%;
+}
+/* ========== development end ========== */
+/* ========== inspiration start ========== */
+#inspiration {
+	padding: 38px 0 0;
+}
+#inspiration .insp-descript {
+	width: 90%;
+	margin: 12px auto 0;
+}
+#inspiration .inspiration-box {
+	margin-top: 24px;
+	padding: 16px 16px 0;
+	border-radius: 8px;
+}
+#inspiration .inspiration-box iframe{
+    height: 200px;
+}
+/* ========== inspiration end ========== */
+/* ========== target start ========== */
+#target {
+	padding: 87px 0 56px;
+}
+#target .target-descript {
+	width: 90%;
+	margin: 12px auto 0;
+}
+#target .target-box {
+	display: flex;
+    flex-direction: column;
+	margin-top: 24px;
+    gap: 10px;
+}
+#target .target-box .target-item {
+	width: 100%;
+	padding: 20px;
+	border-radius: 9px;
+}
+#target .target-box .target-item h3 {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 18px;
+	margin-top: 16px;
+}
+#target .target-box .target-item p {
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 19px;
+	margin-top: 8px;
+	width: 220px;
+}
+#target .target-box .target-item a {
+	font-weight: 400;
+	font-size: 10px;
+	margin-top: 12px;
+}
+/* ========== target end ========== */
+/* ========== next-target start ========== */
+#next-target .nxttrgt-descript {
+	margin: 12px auto 0;
+	width: 90%;
+}
+#next-target .next-taget-box {
+	row-gap: 12px;
+	margin-top: 24px;
+}
+#next-target .next-taget-box .nxtt-item {
+	border-radius: 10px;
+	padding: 20px;
+	gap: 12px;
+}
+#next-target .next-taget-box .nxtt-item .nxtt-itm-txt h3 {
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 18px;
+}
+#next-target .next-taget-box .nxtt-item .nxtt-itm-txt p {
+	font-weight: 300;
+	font-size: 10px;
+	line-height: 13px;
+	width: 100%;
+}
+#next-target .next-taget-box .nxtt-item .nxtt-itm-txt a {
+	font-weight: 400;
+	font-size: 9px;
+	margin-top: 12px;
+}
+/* ========== next-target end ========== */
+/* ========== support start ========== */
+#support {
+	padding: 25px 0 40px;
+}
+#support .support-box h2 {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 18px;
+	color: #ffffff;
+}
+#support .support-box p {
+	font-weight: 300;
+	font-size: 10px;
+	line-height: 15px;
+	margin: 10px auto 0;
+	width: 90%;
+}
+#support .support-box form {
+	gap: 12px;
+	margin-top: 12px;
+}
+#support .support-box form input {
+	width: 65%;
+	height: 34px;
+	font-weight: 400;
+	font-size: 8px;
+	border-radius: 8px;
+	padding: 0 7px;
+    border: none;
+}
+#support .support-box form button {
+	width: 20%;
+	height: 34px;
+	font-weight: 400;
+	font-size: 8px;
+	border-radius: 8px;
+	padding: 0 10px;
+    border: none;
+}
+/* ========== support start ========== */
+
+#footer {
+	padding: 16px 0;
+	background: rgba(13, 19, 33, 0.03);
+}
+#footer .foot-wraper p{
+    font-size: 10px;
+}
+#footer .foot-wraper ul {
+	gap: 12px;
+}
+#footer .foot-wraper ul li a img{
+    width: 12px;
+}
+/* =================== extra small device end ==================== */
+}
